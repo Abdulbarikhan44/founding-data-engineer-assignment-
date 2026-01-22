@@ -1,0 +1,5 @@
+user_id,message,campaign,timestamp
+u1,"I like sports shoes","c1","2025-01-10T10:00:00"
+u2,"Looking for finance tips","c2","2025-01-10T10:01:00"
+u3,"Need fitness plan","c3","2025-01-10T10:02:00"
+u1,"Any discount offers?","c1","2025-01-10T10:03:00"
