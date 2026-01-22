@@ -5,4 +5,4 @@ SQLITE_DB = "analytics.db"
 EMBEDDING_DIM = 1024
 
 # this is for future use
-# REDIS_TTL = 60
+# REDIS_TTL = 60    

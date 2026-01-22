@@ -1,3 +1,3 @@
 ## Scaling to 10M+ users
 - Use BigQuery
-- Use Kafka for streaing ingestion
+- Use GCP PubSub for streaing ingestion
