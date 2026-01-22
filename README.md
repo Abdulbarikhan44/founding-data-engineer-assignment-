@@ -9,9 +9,7 @@ Design and Implement a Scalable Multi-Database Data Platform for AI-Driven Marke
 - FastAPI
 - Sentence Transformers
 
-## How to Run
-1. Start databases (docker-compose optional)
-2. Run pipeline:
-   python src/pipeline/run_pipeline.py
-3. Start API:
-   uvicorn src.api.app:app --reload
+## Run
+1. Start databases (docker-compose)
+2. Run pipeline: python src/pipeline/run_pipeline.py
+3. Start API: src.api.app:app 
