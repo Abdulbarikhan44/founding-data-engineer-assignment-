@@ -1,0 +1,6 @@
+-
+-MongoDB stores raw chat data because schema is flexible.
+-Milvus is used for vector similarity search.
+-Neo4j models user-campaign relationships naturally.
+-SQLite is used as analytics store for simplicity.
+-
